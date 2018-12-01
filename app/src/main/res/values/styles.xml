@@ -1,0 +1,34 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Subtitle_Appearance" parent="@android:style/TextAppearance">
+        <!-- Theme for subtitle text -->
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold|italic</item>
+        <item name="android:fontFamily">cursive</item>
+        <item name="android:textColor">@color/colorTextMain</item>
+    </style>
+
+    <style name="Text_Appearance" parent="@android:style/TextAppearance">
+        <!-- Theme for text -->
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textColor">@color/colorTextMain</item>
+    </style>
+
+    <style name="Button_Appearance" parent="@android:style/Widget.Button">
+        <!-- Theme for button text -->
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+</resources>

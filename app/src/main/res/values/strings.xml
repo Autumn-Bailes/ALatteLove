@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Love A Latte</string>
+    <string name="subtitle_text">Live to love and love to drink coffee</string>
+    <string name="about_us">A small cafe located right off of Aliso Beach for the perfect combination of sun, fun and coffee.</string>
+    <string name="address">Laguna Beach, CA 92651</string>
+    <string name="phone">(707) 555&#8211;5555</string>
+    <string name="hours">Open 24 Hours</string>
+    <string name="aboutUs_title">Location</string>
+    <string name="address_title">Address</string>
+    <string name="hours_title">Hours</string>
+    <string name="call_title">Phone</string>
+</resources>
